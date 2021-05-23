@@ -217,8 +217,7 @@ a:active {
 --*/
 .bg-1 {
   background-image: url("../images/header-bg.jpeg");
-  background-size: cover;
-  background-attachment: fixed; }
+}
 
 .bg-gray {
   background: #f8f8f8; }
